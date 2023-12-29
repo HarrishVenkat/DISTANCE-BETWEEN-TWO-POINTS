@@ -25,7 +25,7 @@ distance=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print("{:.2f}".format(distance))
 ```
 ### OUTPUT:
-![distance](https://github.com/HarrishVenkat/DISTANCE-BETWEEN-TWO-POINTS/assets/144979588/03658363-22b4-4a11-9c6f-8bf9b85a124f)
+![image](https://github.com/HarrishVenkat/DISTANCE-BETWEEN-TWO-POINTS/assets/144979588/f21a424a-102b-42e4-8941-43e35891c86d)
 
 
 ### RESULT:
